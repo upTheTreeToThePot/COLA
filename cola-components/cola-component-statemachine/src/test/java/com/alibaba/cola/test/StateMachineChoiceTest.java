@@ -32,6 +32,7 @@ public class StateMachineChoiceTest {
      * if condition == "1", STATE1 --> STATE1
      * if condition == "2" , STATE1 --> STATE2
      * if condition == "3" , STATE1 --> STATE3
+     *
      */
     @Test
     public void testChoice(){
